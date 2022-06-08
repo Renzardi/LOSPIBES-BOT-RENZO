@@ -1,0 +1,24 @@
+{
+  "token": "OTY5MzkxMzc3MDIyNjE1NTUy.GG1Hr-.Q7QMmEZ8N8Pwuq8URKPgZC2qyN7J9kI_6_IMwE",
+  "prefix": "/",
+  "defaultCommandCooldown" : 1,
+  "owners": ["806747477793177661"],
+  "db": "mongodb+srv://renbot:<Renzo891>@rendeveloperboturbanbot.snkah.mongodb.net/rendeveloperboturbanbot?retryWrites=true&w=majority",
+  "sname": "LOS PIBES",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN",
+  "music_settings": {
+      "searchSongs": false,
+      "emitNewSongOnly": false,
+      "highWaterMark": 67108864,
+      "leaveOnEmpty": false,
+      "leaveOnFinish": false,
+      "leaveOnStop": true,
+      "youtubeDL": true,
+      "updateYouTubeDL": true,
+      "youtube_cookie": "GPS=1; YSC=4LAg-COUQj0; VISITOR_INFO1_LIVE=XOnr1pQsWCA; PREF=tz=America.Argentina%2FBuenos_Aires; CONSISTENCY=AGDxDeN5AZnv6KAsYLfkMNouL4RezGkUCJ3PDhF4IRAdayBWEVZP6Eujk-fb-KHyO4w0rlBvTriCJ5lTmuXh0Ae_KjxgekocPKBXFRcb91j_7gCJ-jiCX5R0BUaMyZQtZ9MqE-IulHM0Hfb7PBQPoQ; SID=KwjLxmoZ9IlvTs2hStuao4muEX3uGEj_xi97VpSiKttHI0ftG9ONwuJHlhtgHzrnnygQWQ.; __Secure-1PSID=KwjLxmoZ9IlvTs2hStuao4muEX3uGEj_xi97VpSiKttHI0ft-BrAppAzZRhdbrTu32CtYQ.; __Secure-3PSID=KwjLxmoZ9IlvTs2hStuao4muEX3uGEj_xi97VpSiKttHI0ftsgZYF6U5NkU8URbqSzWn_Q…AiNPb-hjmi; LOGIN_INFO=AFmmF2swRAIgN6sd-1KULD-dhbowTMXQpoPStMf074NogcqqMHJiz9MCIGiRwANA7v2Iu7Oqps9SviCVxrpqyyA5Q4Qbur1Bte8T:QUQ3MjNmd3RUd0xPQzdDdUs3azFvbzVidHJVTWdtYkNabFFueldRNEhZY0w0OUxwMEVyX0NCYy1jeW5lOHF2bDhIYmJwWnY1M3ZCZExUWmcwQTdnb1M4WjVSSW11b19PRzlvcjJEcVJ6OTZmZnl1MzVqV0N2V1Y2RndCWEhnYTNzSG82YkFVWF9LSDdabzctWjBxZkNSY2VPMHktcUZPMkVB; SIDCC=AJi4QfGFxrzmwRRE3nYK6loLu920ozmHxshSXRDEcDJttUj-FI1j3rhUfma3Ck-Skqtm5oP7; __Secure-3PSIDCC=AJi4QfEWHMvL7A73icoDDUGp7xQ5V0XrHDcFW0gBb9YtoJ58mby76Ovc1Nt-HLaPIKDMxDXp"
+   },
+   "comando": "!velprilpllppfilpcalplprselp",
+   "rolID": "973356864693760020"
+}
