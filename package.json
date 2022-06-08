@@ -64,6 +64,10 @@
     "ytdl-core": "^4.11.0",
     "ytsr": "^3.7.0"
   },
+  "engines": {
+    "node": "16.14.2",
+    "npm": "8.5.0"
+  },
   "devDependencies": {
     "ascii-table": "^0.0.9",
     "colors": "^1.4.0"
